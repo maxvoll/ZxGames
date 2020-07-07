@@ -1,0 +1,418 @@
+Changelog Files ZxGames Base source muemu up13.
+
+Dev: =[MaxVoll]= (Fundador ZxGames).
+
+
+//=========================================
+//    UPDATE 2
+//=========================================
+-> Itens +15
+-> Setvip Command.
+-> Clear Inv.Command
+-> Marry Command
+-> Open ware Command
+-> Change class Command
+-> Change name Command
+-> Reward Command
+-> Info Command
+-> Ban Char Command
+-> Ban Acc Command
+-> Open event Command
+-> Cash Shop in-game
+-> Online Lottery
+-> Custom Moves
+-> Custom Summon
+-> Bot Buffer
+-> Run and Cat event
+-> Hide and seek event
+-> Quickly event
+-> HP Bonus System
+-> Die Message System
+-> Online User Message
+-> Online GM Message
+-> Desab. Exp Message
+-> Desab. Skill flinch
+-> /attack Use Time
+-> Special Encryption
+-> 100 Max Custom Wings
+-> 3000 Custom Static Effect
+-> 3000 Custom Dynamic Effect
+
+//=========================================
+//    UPDATE 3
+//=========================================
+
+-> MakeSet command
+-> Drop command
+-> Gift command
+-> Top command
+-> Remove OffSystem in Lottery
+-> CustomQuest System
+-> Russian Roullet event
+-> King of Mu event (update)
+-> /store Use time
+-> Reward BC with WC,WP,GP
+-> Reward DS with WC,WP,GP
+-> Reward CC with WC,WP,GP
+-> Marry command only for gm opt.
+-> Desab.Wing Mix(RF,DL,SU) opt.
+
+//=========================================
+//    UPDATE 4
+//=========================================
+
+-> Remov.Class(dl,su,rf)
+-> Custom Quiz event
+-> Need Ticket to change name
+-> Custom WingMix(Chaos goblin)
+-> Custom Death Message
+-> Custom Npc Colector
+-> Readd command (stats)
+-> Make command improved
+-> Custom Rank User
+-> Desab.Hp Bar Mosnter/Char
+-> JoinServer Anti-dupe
+-> Allow Pk enter in BC,DS,CC
+
+//=========================================
+//    UPDATE 5
+//=========================================
+
+-> GameServer new interface
+-> Close MessageBox in JS DS
+-> Russian Roullet event (v2)
+-> Run and Catch (v2)
+-> CusttomAttack Skill Delay
+-> CusttomAttack Potion Delay
+-> CusttomAttack Auto Buff
+-> CusttomAttack Allow on/off
+-> CusttomAttack Skill change
+-> CusttomAttack by map
+-> Pick Command
+-> Pk Item Drop System
+-> Auto logout online account
+-> Fix Move kalima 6 to 7
+
+//=========================================
+//    UPDATE 6
+//=========================================
+
+-> Event Time in GS
+-> Start BC in GS
+-> Start DS in GS
+-> Start CC in GS
+-> Start IT in GS
+-> BC Ranking Procedure
+-> DS Ranking Procedure
+-> CC Ranking Procedure
+-> IT Ranking Procedure
+-> Custom Combo Skill(All Class)
+-> Allow CS Skills use
+-> BuyVip IN-GAME
+-> Custom Ranking IN-GAME
+-> Remaster command
+-> Helper command
+-> Startbc command
+-> Startds command
+-> Startcc command
+-> Startit command
+-> Released 9 new mapas custom
+-> Released 10 new bows and crossbow
+-> Disable Reflect effect Option
+-> Auto Run and catch reward
+-> Auto Hide and seek reward
+-> Auto Russian roullet reward
+-> Auto Quickly reward
+-> Auto Lottery reward
+-> Fix Set item drop in eventitembag
+
+//=========================================
+//    UPDATE 7
+//=========================================
+
+-> Print Screen + logo
+-> RankUser by MasterReset, Reset or Level
+-> Description command
+-> New Command.txt structure
+-> Need coin to use a command option
+-> DisablePVP command
+-> Lock/Unlock command
+-> Fix Active MuHelper + CustomAttack at same time
+-> Fix duel message level
+-> Fix dead gates in custom maps
+-> Fix Start Events crash
+-> EventTime improvements
+-> Pick command improvements
+
+//=========================================
+//    UPDATE 8
+//=========================================
+
+-> Moveall command
+-> Moveguild command
+-> EventTime window
+-> Commands windows
+-> PvP Event(x1)
+-> KillAll Event
+-> Custom menu
+-> BuyVip - Add vip types qtd
+-> Add triple shot skill in /attack
+-> Fix DarkSpirit Attack in offpvp
+-> Gs event time update
+
+//=========================================
+//    UPDATE 9
+//=========================================
+
+-> Common Shop with Socket/Ancient Options
+-> Advanced ZenDrop System
+-> Command /SetCoin
+-> Command /Pack jewel
+-> Command /spot
+-> Command /startquiz
+-> Command /startdrop
+-> Command /startking
+-> Command /startvt
+-> Custom Sell/Buy Value in Common Shop
+-> Bloc words in change name
+-> Add MasterReset required in CustomMove
+-> Add New Dl/Elf Skills in /Attack
+-> CustomCombo improvements
+-> Team vs team Event
+-> Removed RankUser in Chaos Castle
+-> Removed disabled events in EventTime
+-> Fix Kriss lag
+-> Fix HpBonus Descrease life
+-> Fix RankUser Reward
+-> Fix Reload Event time
+
+//=========================================
+//    UPDATE 10
+//=========================================
+
+-> Add Fog effect
+-> Add Smoke effect
+-> Custom disable effects
+-> New MiniMap
+-> Fix Kalima + OffPvp
+-> Fix Store with time
+-> Fix Pack Jewels
+-> Fix visual skills in attack
+-> Fix Repair All in BlackSmith
+-> Fix DarkSpirit in Offpvp
+
+//=========================================
+//    UPDATE 11
+//=========================================
+
+-> Add infinity arrow auto buff
+-> Add /attack auto resume
+-> Add Tvt Event Min/Max Users
+-> Add command notice if need coin to use
+-> Add Expire Date/Message in /banacc command
+-> Add Expire Date/Message in /banchar command
+-> Add auto remove ban
+-> Disable MiniMap with TAB
+-> Guild Warehouse
+-> Custom Monster/NPC
+-> Custom NPC name
+-> Custom Shops with same NPC
+-> Fix trade events with /re off
+-> Fix full zen bug trade+command
+-> Fix Gameserver maximize layout
+-> Fix PvP Event Respaw
+
+//=========================================
+//    UPDATE 12
+//=========================================
+
+-> Custom NPC move
+-> Custom Npc Command
+-> CustomCommandInfo V2
+-> Custom RankUser OverHead
+-> Custom Party Icon
+-> Trade Value
+-> Party Disable PK
+-> Anti SpeedHack Skill System
+-> Shop Confirm Box
+-> Update TvtEvent new requistes
+-> Add Auto Heal Skill in /Attack
+-> Add Global Password System
+-> Option to show Rankuser in all place
+-> Option to Hide Reset in Rankuser
+-> Option to Hide MReset in Rankuser
+-> Option to Change MReset name in Rankuser
+-> Disable Party HpBar option
+-> Increase CustomShops to 100
+-> Fixes in custom buy vip windows
+
+//=========================================
+//    UPDATE 13
+//=========================================
+
+-> GS and GSCS new interface
+-> MasterReset remove fixed resets
+-> Command Start Invasion
+-> Command Start Custom Arena
+-> Custom Quest Command (v2)
+-> Custom EventTime (v2)
+-> Custom Npc Quest
+-> Custom Npc Name up to 100
+-> Custom Pick (v2)
+-> Custom Pick Excelent
+-> Custom Pick SetItem
+-> Custom Pick Socket
+-> Enable Lucky item trade
+-> Disable Duel Restore HP
+-> Disable Duel Restore SD
+-> Require Reset/MResets to Server enter
+-> Add Reset/MasterReset Requisite on Create Character
+-> Fixes in MapServerMove
+-> Other fixes
+
+//=========================================
+//    ZXGAMES UPDATE 1
+//=========================================
+
+-> Fix Dup ChaosMachine Helper.
+-> Fix Dup Zen Trade + Repair and Others.
+-> Fix Pk dropitem only PK character.
+-> Fix Custom Monster.
+-> Add CustomBoW ELF.
+-> Add CustomGloves RF.
+-> Add CustomPets Muun.
+-> Add Custom PanelUser.
+-> Add New System HpBar.
+-> Fix Change Exp in pet panda and skeleton.
+-> Add Support 100 Set Acc.
+-> Add 10 slot for Plugins.
+-> Add 2 slot for Only Crc.
+
+//=========================================
+//    ZXGAMES UPDATE 2
+//=========================================
+
+-> Add RespawnLocation for all map.
+-> Add option to create your own mix in chaosmachine.
+-> Add New system OffMode.
+-> Add Option For Helper + Inventory.
+-> Add Custom Panel Ware.
+-> Add Custom Panel Change Class.
+-> Add Bot Alquimista.
+-> Add welcome gift system.
+-> Fix Ctrl Lag.
+
+//=========================================
+//    ZXGAMES UPDATE 3
+//=========================================
+
+-> Add system to disable menu buttons.
+-> Add welcome message in the client.
+-> Add Change Set to Npc.
+-> Add Custom fenrir only 4+.
+-> Add Option for Rank PkCount.
+-> Disable CustomInfo Character.
+-> Add PostItem.
+-> Add System Change Font.
+-> Add Support to 25 Character For Account.
+
+//=========================================
+//    ZXGAMES UPDATE 4
+//=========================================
+
+-> Add rock paper or scissors (betting items).
+-> Add party search.
+-> Add new IP connection verification system.
+-> Add ModelEffects (Effects in Sets).
+-> Add Advanced Stat.
+-> Add betting duels system. (duelos con apuestas).
+-> Add Chat Expanded.
+-> Add Custom Panel Change Resets for Wcoins.
+-> StaticEffect up to 5000.
+-> DinamycEffect up to 5000.
+
+//=========================================
+//    ZXGAMES UPDATE 5
+//=========================================
+
+-> Add disabled SD (server side).
+-> Add downgrade system part by part.
+-> Add Interface 97D, s3, s6, s8, MuLegend, Custom.
+-> Add Change Copyriht in Config.
+-> Add option to move itemlucky.
+-> Add option to disable Buffs icons.
+-> Add option to disable Effect +15.
+-> Add option to change text color when obtaining a Item, zen, change map, screen.
+-> Add option to Change selectcharacter. (S6, S3)
+-> Add Effect Invasion Dragon.
+
+//=========================================
+//    ZXGAMES UPDATE 6
+//=========================================
+
+-> Add Camera in main.dll.
+-> Add system Monster Call for item.
+-> Add system to show user responses CustomQuiz.
+-> Add option to disable advancedstat. (Custom.dat).
+-> Add option to disable DragonFlying. (Custom.dat).
+-> Summon scroll enabled for season 6.
+
+//=========================================
+//    ZXGAMES UPDATE 7
+//=========================================
+
+-> Add Show Ping in Game.
+-> Add Fps in Game.
+-> Monster Number Increase.
+-> Add local Time in client.
+-> NpcMove Add opcion requiered item. (Config Event sky).
+
+//=========================================
+//    ZXGAMES UPDATE 8
+//=========================================
+
+-> Delete camera and add Camera.dll.
+-> Fix black bar in iterface S8.
+-> Add Server Time in client.
+-> Add LuckyWheel.
+-> Fix skill speed in DL and RF.
+-> Restructuracion de bots.
+-> Add BotTrader.
+-> New system minimap.
+
+//=========================================
+//    ZXGAMES UPDATE 9
+//=========================================
+
+-> Add SelectCharacter S8.
+-> Add SelectServer S8.
+-> Add SelectCharacter S13.
+-> Add Custom Monster Color.
+-> Add right click.
+-> Add Character Animation.
+-> Add option Active Animation.
+
+//=========================================
+//    ZXGAMES UPDATE 10
+//=========================================
+
+-> Lag was reduced in SelectServer S8.
+-> Add Add option to modify  character animation for class.
+-> Add Item info.
+-> Add Custom Inventory zen.
+-> Add Increase FPS Limit.
+-> Add Disable Txt Inventory Socket.
+-> Add Disable Txt Inventory Acc.
+-> Add option Disable Move Window. (Key M).
+
+//=========================================
+//    ZXGAMES UPDATE 11
+//=========================================
+
+-> Add antiddos systen.
+-> Add Desbaned ip window.
+-> right click was modified, one click at a time.
+-> Add Disable key L.
+-> Add Message in guard. (Change in Message.txt).
+-> Add Chat style S8.
+-> Other Fix.
